@@ -1,0 +1,23 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore node_modules (for JavaScript projects)
+node_modules/
+
+# Add other files and directories you want to ignore

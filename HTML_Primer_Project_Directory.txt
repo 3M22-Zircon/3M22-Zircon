@@ -1,0 +1,6 @@
+WebCV/
+├── index.html
+├── search_results.html
+├── app.py
+├── your-image.jpg (or any other images used)
+└── README.md
