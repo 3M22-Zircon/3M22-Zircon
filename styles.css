@@ -1,31 +1,30 @@
+/* Change background color */
 body {
-    background-color: #f0f8ff; /* Change the background color */
-    font-family: 'Arial', sans-serif; /* Modify the font */
-    color: #333; /* Change font color */
+    background-color: #f8f9fa;
 }
 
-h1, h2, h3 {
-    text-align: center;
-    margin-top: 20px;
+/* Modify font */
+body, h1, p, a {
+    font-family: Arial, sans-serif;
 }
 
+/* Adjust image size */
 img {
     width: 150px;
     height: 150px;
-    border-radius: 50%; /* Make the image circular */
-    display: block;
-    margin: 0 auto;
+    border-radius: 50%;
 }
 
+/* Centralize navbar and elements */
 .navbar {
     margin-bottom: 20px;
 }
 
+/* Adjust spacing */
 .container {
-    max-width: 900px;
-    margin: auto;
+    padding: 20px;
 }
 
-.section {
-    margin-bottom: 20px;
+.footer {
+    padding: 10px;
 }
